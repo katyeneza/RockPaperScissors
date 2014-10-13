@@ -1,0 +1,10 @@
+H:\GitHub\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+H:\GitHub\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Form1.resources
+H:\GitHub\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Resources.resources
+H:\GitHub\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.vbproj.GenerateResource.Cache
+H:\GitHub\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+H:\GitHub\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+H:\GitHub\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.xml
+H:\GitHub\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+H:\GitHub\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.xml
+H:\GitHub\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
