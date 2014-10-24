@@ -69,9 +69,6 @@
     End Sub
 
     Private Sub btnShootIf_Click(sender As Object, e As EventArgs) Handles btnShootIf.Click
-        Dim intCompScore As Integer = 0
-        Dim intPlayerScore As Integer = 0
-        Dim intCompThrow As Integer
 
         Randomize()
         intCompThrow = Int((3 - 1 + 1) * Rnd() + 1)
@@ -85,9 +82,6 @@
         Else
         End If
 
-        Randomize()
-        intCompThrow = Int((3 - 1 + 1) * Rnd() + 1)
-
         If intCompThrow = 1 And Me.rdoPaper.Checked Then
             Me.lblAnswer.Text = "You win! Computer chose rock!"
         ElseIf intCompThrow = 2 And Me.rdoPaper.Checked Then
@@ -96,10 +90,7 @@
             Me.lblAnswer.Text = "The computer chooses scissors. Computer wins!"
         Else
         End If
-        Randomize()
-        intCompThrow = Int((3 - 1 + 1) * Rnd() + 1)
-
-
+       
         If intCompThrow = 1 And Me.rdoScissors.Checked Then
             Me.lblAnswer.Text = "The computer chooses rock. Computer wins!"
         ElseIf intCompThrow = 2 And Me.rdoScissors.Checked Then
@@ -110,4 +101,5 @@
         End If
 
     End Sub
+
 End Class

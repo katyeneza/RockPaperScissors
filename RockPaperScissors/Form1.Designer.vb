@@ -103,7 +103,7 @@ Partial Class Form1
         '
         Me.btnShootIf.Location = New System.Drawing.Point(222, 113)
         Me.btnShootIf.Name = "btnShootIf"
-        Me.btnShootIf.Size = New System.Drawing.Size(85, 31)
+        Me.btnShootIf.Size = New System.Drawing.Size(87, 31)
         Me.btnShootIf.TabIndex = 8
         Me.btnShootIf.Text = "Shoot"
         Me.btnShootIf.UseVisualStyleBackColor = True
